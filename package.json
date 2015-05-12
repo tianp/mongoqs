@@ -1,0 +1,23 @@
+{
+  "name": "mongoqs",
+  "version": "0.1.0",
+  "description": "MongoDB query builder using querystring",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://tianp@github.com/tianp/mongoqs.git"
+  },
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "keywords": [
+    "MongoDB",
+    "Query",
+    "Builder"
+  ],
+  "author": "Tian Permana <hello@tianpermana.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodeunit": "^0.9.1"
+  }
+}
